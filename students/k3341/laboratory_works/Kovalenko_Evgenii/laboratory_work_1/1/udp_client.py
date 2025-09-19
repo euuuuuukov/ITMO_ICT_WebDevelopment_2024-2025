@@ -5,7 +5,7 @@ from socket import socket, AF_INET, SOCK_DGRAM
 client_socket = socket(AF_INET, SOCK_DGRAM)
 
 # Адрес сервера
-server_address = ('localhost', 12345)
+server_address = ('localhost', 8080)
 
 # Отправляем сообщение серверу
 message = "Hello, server"

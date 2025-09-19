@@ -5,7 +5,7 @@ from socket import socket, AF_INET, SOCK_DGRAM
 server_socket = socket(AF_INET, SOCK_DGRAM)
 
 # Привязываем сокет к адресу и порту
-server_address = ('localhost', 12345)
+server_address = ('localhost', 8080)
 server_socket.bind(server_address)
 
 print("Сервер запущен и ожидает сообщения...")
