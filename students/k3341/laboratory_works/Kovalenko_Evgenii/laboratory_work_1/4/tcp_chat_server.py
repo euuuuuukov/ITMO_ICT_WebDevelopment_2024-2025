@@ -72,7 +72,7 @@ while True:
 
     # Запрашиваем никнейм
     client_socket.send("Введите ваш никнейм: ".encode())
-    nickname = client_socket.recv(1024).decode()
+    nickname = client_socket.recv(4096).decode()
 
     # Проверяем, занят ли никнейм
     if nickname in nicknames:

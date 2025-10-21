@@ -33,6 +33,7 @@ nav:
     - Задание 3: lr1/3.md
     - Задание 4: lr1/4.md
     - Задание 5: lr1/5.md
+  - Лабораторная работа 2: lr2/index.md
 
 markdown_extensions:
   - admonition
