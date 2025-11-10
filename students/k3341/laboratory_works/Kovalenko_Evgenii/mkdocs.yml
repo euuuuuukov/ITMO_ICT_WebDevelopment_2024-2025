@@ -1,6 +1,8 @@
 site_name: Лабораторные работы по веб-программированию
+site_url: https://euuuuuukov.github.io/ITMO_ICT_WebDevelopment_2024-2025/
 site_description: Документация по лабораторным работам
 site_author: Коваленко Евгений
+copyright: Коваленко Евгений, @euuuuuukov, 2025
 
 theme:
   name: material
