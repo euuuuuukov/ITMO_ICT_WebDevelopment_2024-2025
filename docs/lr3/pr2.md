@@ -16,6 +16,6 @@
 Вот, например, эндпоинт с отображением полной информации о воине:
 ![img_1.png](img_1.png)
 
-Код приложения здесь: [warriors_app](..%2F..%2Fstudents%2Fk3341%2Fpractical_works%2FKovalenko_Evgenii%2Fsimple_drf_project%2Fwarriors_app)
+Код приложения здесь: [warriors_app](https://github.com/euuuuuukov/ITMO_ICT_WebDevelopment_2024-2025/tree/main/students/k3341/practical_works/Kovalenko_Evgenii/simple_drf_project/warriors_app)
 
-Код создания воинов здесь: [pr2.py](..%2F..%2Fstudents%2Fk3341%2Fpractical_works%2FKovalenko_Evgenii%2Fsimple_drf_project%2Fpr2.py)
+Код создания воинов здесь: [pr2.py](https://github.com/euuuuuukov/ITMO_ICT_WebDevelopment_2024-2025/blob/main/students/k3341/practical_works/Kovalenko_Evgenii/simple_drf_project/pr2.py)

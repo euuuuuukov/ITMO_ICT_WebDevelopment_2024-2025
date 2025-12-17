@@ -32,9 +32,9 @@
 ![img.png](img.png)
 Потом применяем миграции и БД готова к запросам.
 
-Приложение здесь: [autoapp](..%2F..%2Fstudents%2Fk3341%2Fpractical_works%2FKovalenko_Evgenii%2Fsimple_drf_project%2Fautoapp)
+Приложение здесь: [autoapp](https://github.com/euuuuuukov/ITMO_ICT_WebDevelopment_2024-2025/tree/main/students/k3341/practical_works/Kovalenko_Evgenii/simple_drf_project/autoapp)
 
-Код всех заданий здесь: [pr1.py](..%2F..%2Fstudents%2Fk3341%2Fpractical_works%2FKovalenko_Evgenii%2Fsimple_drf_project%2Fpr1.py)
+Код всех заданий здесь: [pr1.py](https://github.com/euuuuuukov/ITMO_ICT_WebDevelopment_2024-2025/blob/main/students/k3341/practical_works/Kovalenko_Evgenii/simple_drf_project/pr1.py)
 
 Вот вывод:
 ```
