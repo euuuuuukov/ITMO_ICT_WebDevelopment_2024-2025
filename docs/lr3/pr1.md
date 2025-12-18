@@ -30,6 +30,7 @@
 
 Я создал классы согласно схеме БД:
 ![img.png](img.png)
+
 Потом применяем миграции и БД готова к запросам.
 
 Приложение здесь: [autoapp](https://github.com/euuuuuukov/ITMO_ICT_WebDevelopment_2024-2025/tree/main/students/k3341/practical_works/Kovalenko_Evgenii/simple_drf_project/autoapp)
