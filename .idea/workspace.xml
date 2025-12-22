@@ -5,15 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08416b50-f2cb-4ca7-b9e1-fade928832ae" name="Changes" comment="lab2 done">
-      <change afterPath="$PROJECT_DIR$/docs/lr3/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/lr3/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/lr3/pr1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/lr3/pr2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/practical_works/Kovalenko_Evgenii/simple_drf_project/pr1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/practical_works/Kovalenko_Evgenii/simple_drf_project/warriors_app/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/practical_works/Kovalenko_Evgenii/simple_drf_project/warriors_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lr4/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/components/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/components/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/components/RegisterForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lr3/lab.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lr3/lab.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/college_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/college_system/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/college_system/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/college_system/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,7 +75,8 @@
     "Python.udp_server.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/t_m_s_o_s_n/PycharmProjects/ITMO_ICT_WebDevelopment_2024-2025/docs/lr3"
+    "last_opened_file_path": "C:/Users/05kov/Downloads/vuejs-plugin-253.29346.44.zip",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
