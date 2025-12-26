@@ -4,32 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08416b50-f2cb-4ca7-b9e1-fade928832ae" name="Changes" comment="lab2 done">
-      <change afterPath="$PROJECT_DIR$/docs/lr4/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/components/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/components/LoginForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/components/RegisterForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_4/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="08416b50-f2cb-4ca7-b9e1-fade928832ae" name="Changes" comment="lab3 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lr3/lab.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lr3/lab.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/college_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/college_system/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/college_system/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/college_system/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/apps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/students/k3341/laboratory_works/Kovalenko_Evgenii/laboratory_work_3/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +53,7 @@
     "Python.udp_server.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/05kov/Downloads/vuejs-plugin-253.29346.44.zip",
+    "last_opened_file_path": "C:/Users/05kov/PycharmProjects/ITMO_ICT_WebDevelopment_2024-2025",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -93,7 +71,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
       </set>
     </attachedChunks>
   </component>
@@ -114,11 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1760989946081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lab3 done">
+      <option name="closed" value="true" />
+      <created>1766391887308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766391887308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab2 done" />
+    <MESSAGE value="lab3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab3 done" />
   </component>
 </project>

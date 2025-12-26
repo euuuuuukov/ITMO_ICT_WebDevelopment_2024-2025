@@ -1,6 +1,6 @@
 from django.db import models
 from django.core.validators import MinValueValidator, MaxValueValidator
-
+from django.utils import timezone
 
 class Group(models.Model):
     group_id = models.AutoField(primary_key=True, verbose_name='ID группы')
@@ -310,7 +310,7 @@ class Grade(models.Model):
         verbose_name='Семестр'
     )
     academic_year = models.PositiveIntegerField(verbose_name='Учебный год')
-    date_received = models.DateField(verbose_name='Дата получения')
+    date_received = models.DateField(verbose_name='Дата получения', default=timezone.now)
     teacher = models.ForeignKey(
         Teacher,
         on_delete=models.CASCADE,
